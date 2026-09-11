@@ -27,7 +27,7 @@ Network visibility starts with understanding normal traffic paths, address alloc
 
 The lab uses four routers joined by point-to-point links and VLSM subnetting. Static routes are configured on one side of the topology, while the other uses OSPF Area 0. The design includes separate LANs for DHCP, SSH management, DNS/HTTP services, and three VLANs.
 
-![Full Packet Tracer topology](Screenshots/topology.png)
+![Full Packet Tracer topology](Screenshots/Topology.png)
 
 ## Documentation
 
